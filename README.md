@@ -8,9 +8,6 @@ spoiler_angle     6.877e-02  6.653e-02   1.034   0.3069
 ground_clearance  3.546e+00  5.412e-01   6.551 5.21e-08 ***
 AWD              -3.411e+00  2.535e+00  -1.346   0.1852    
 
-![lions-mane-mushroom-scaled](https://user-images.githubusercontent.com/38327290/152659937-4490454e-8a33-49fa-962d-08a6abed7f5f.jpg)
-
-
 * Intercept, vehicle_length, and ground_clearance provided non-random variance to the mpg values
 * The slope of the linear model is non-zero, because we have 3 independent variables that provide non-random variance to the mpg values
 * Intercept, vehicle_length, and ground_clearance predict mpg of MechaCar prototypes effectively because each of their Pr(>|t|) values are less than .001, which indicates a strong correlation 
